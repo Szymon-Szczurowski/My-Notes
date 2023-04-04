@@ -1,3 +1,4 @@
 # My-Notes
 
-https://szymon-szczurowski.github.io/My-Notes/
+[My Notes](https://szymonszczurowski.github.io/My-Notes/)
+
